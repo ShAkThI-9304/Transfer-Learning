@@ -110,6 +110,13 @@ def train_model(model, train_loader,test_loader,num_epochs=10):
 ```
 
 ## OUTPUT
+### Training and Vision Loss
+![image](https://github.com/user-attachments/assets/51751005-1c27-491f-b2ab-2a76674c8c05)
+
+</br>
+</br>
+</br>
+
 
 ### Confusion Matrix
 ![image](https://github.com/user-attachments/assets/115dbe1c-153d-441a-8308-1a971646a19a)
